@@ -101,6 +101,8 @@ This project uses:
 
 ---
 
-## 👨‍💻 Author
-
-Built as a Machine Learning + Streamlit project.
+<img width="1917" height="662" alt="Screenshot 2026-05-18 040654" src="https://github.com/user-attachments/assets/47d19ce5-6a61-444a-8646-5a25bdbdd1c2" />
+<img width="1898" height="867" alt="Screenshot 2026-05-18 040627" src="https://github.com/user-attachments/assets/ad472592-8b39-4cb8-9d33-cb23fdcff1f3" />
+<img width="1918" height="787" alt="Screenshot 2026-05-18 040732" src="https://github.com/user-attachments/assets/cb3f8140-d31c-4181-a664-70ee3d9cd1ab" />
+<img width="1841" height="783" alt="Screenshot 2026-05-18 040720" src="https://github.com/user-attachments/assets/6793eef8-4472-4002-8cc5-2ed6ab8d2938" />
+<img width="1872" height="772" alt="Screenshot 2026-05-18 040707" src="https://github.com/user-attachments/assets/23de2767-0736-4069-b58f-45cd452c2b97" />
